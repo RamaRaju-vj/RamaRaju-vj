@@ -3,7 +3,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Ram <img align="center" alt="devops" width="60" height="60" src="https://devopsconclave.com/images/aboutgif1.gif">
 ===========================================================================================================================
 
-<img width="1834" alt="Make your README" src="<img width="1834" alt="Make your README" src="https://github.com/RamaRaju-vj/RamaRaju-vj/assets/144737522/b055588f-9a8a-4c03-a57a-4c11646d3b5d">
+<img width="1834" alt="Make your README" src="https://github.com/RamaRaju-vj/RamaRaju-vj/assets/144737522/b055588f-9a8a-4c03-a57a-4c11646d3b5d">
 ">
 
 
