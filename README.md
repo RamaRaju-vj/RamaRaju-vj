@@ -50,10 +50,9 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 [![Mailgun](https://img.shields.io/badge/Mailgun-F06A6A?style=for-the-badge&logo=mailgun&logoColor=white)](https://www.mailgun.com/)  
 
-> **Note** \
+> \[!NOTE] \
 > Web Application Repo:  https://github.com/RamaRaju-personal-org/webapp \
 > Infra Repo : https://github.com/RamaRaju-personal-org/tf-gcp-infra
-
 
 #### overview 
 This Project comprises a cohesive collection of repositories intended to streamline the deployment of a secure, scalable, and highly available web application on the Google Cloud Platform (GCP). By leveraging Terraform for infrastructure automation, Google Cloud Functions for serverless execution, and Node.js for backend development, this project provides a robust solution for deploying and managing contemporary, cloud-native applications. Additionally, it utilizes Packer for creating immutable machine images, GitHub Actions for CI/CD, and ensures data security with encryption managed by Google Cloud Keys.
