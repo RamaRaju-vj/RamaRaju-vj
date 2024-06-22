@@ -46,28 +46,28 @@ This Project comprises a cohesive collection of repositories intended to streaml
 ![flow drawio](https://github.com/RamaRaju-personal-org/webapp/assets/144737522/7798b670-f957-4417-9e13-ee4f579e6e36)
 
 ### Project Highlights
-##### <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="height:16px; vertical-align: middle;"> : RESTful APIs 
+##### <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="height:20px; vertical-align: middle;"> : RESTful APIs 
 
 The backend is built with Node.js, offering RESTful APIs for user management, including registration, profile retrieval, updates, and health checks. Secure access is maintained using Basic HTTP authentication and Base64 encoding. User passwords are securely stored in a MySQL database with Bcrypt hashing.
 
-##### <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/" style="height:16px; vertical-align: middle;"> : Automated GCP Infrastructure 
+##### <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/" style="height:20px; vertical-align: middle;"> : Automated GCP Infrastructure 
 Terraform is used for Infrastructure-as-Code (IaC) to automate and provision a secure GCP environment, including VPC, subnets, routes, firewalls, Compute Engine, Cloud SQL (MySQL database), Cloud Storage, Cloud Functions, load balancer, Cloud DNS, Google-managed SSL certificates, and encryption keys.
 
-##### <img src="https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white)](https://www.packer.io/" style="height:16px; vertical-align: middle;"> : Immutable Server Deployments 
+##### <img src="https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white)](https://www.packer.io/" style="height:20px; vertical-align: middle;"> : Immutable Server Deployments 
 Packer and GitHub Actions are utilized to create immutable machine images with pre-built application artifacts, ensuring code integrity. Terraform provisions these images into VMs, eliminating manual SSH configurations. Deployment is automated with startup scripts that configure database connections and start the application.
 
-##### <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" style="height:16px; vertical-align: middle;"> : CI/CD with GitHub Actions 
+##### <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" style="height:20px; vertical-align: middle;"> : CI/CD with GitHub Actions 
 GitHub Actions is used to set up a CI/CD pipeline, automating testing and deployment.
 
-##### <img src="https://img.shields.io/badge/Cloud_function-blue?style=for-the-badge&logo=google-cloud&logoColor=white" style="height:16px; vertical-align: middle;"> : Event-Driven User Verification  
+##### <img src="https://img.shields.io/badge/Cloud_function-blue?style=for-the-badge&logo=google-cloud&logoColor=white" style="height:20px; vertical-align: middle;"> : Event-Driven User Verification  
 
 Google Pub/Sub and Mailgun are used for email verification, sending unique verification links upon account creation. A Cloud Function and Cloud SQL handle the verification process, ensuring secure user registration and API access.
 
-##### <img src="https://img.shields.io/badge/logs-blue?style=for-the-badge&logo=google-cloud&logoColor=white" style="height:16px; vertical-align: middle;">  : Application Logging and Metrics 
+##### <img src="https://img.shields.io/badge/logs-blue?style=for-the-badge&logo=google-cloud&logoColor=white" style="height:20px; vertical-align: middle;">  : Application Logging and Metrics 
 
 Structured JSON logging streams log data to Google Cloud Observability, enhancing diagnostic capabilities.
 
-##### <img src="https://img.shields.io/badge/load_balancing-blue?style=for-the-badge&logo=google-cloud&logoColor=white" style="height:16px; vertical-align: middle;"> :  Scalability and Security 
+##### <img src="https://img.shields.io/badge/load_balancing-blue?style=for-the-badge&logo=google-cloud&logoColor=white" style="height:20px; vertical-align: middle;"> :  Scalability and Security 
 The application leverages dynamic scaling, load balancing, security groups, IAM roles, and customer-managed encryption keys for enhanced scalability and security.
 
 
