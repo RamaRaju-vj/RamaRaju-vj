@@ -27,7 +27,7 @@
 
  <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,jenkins,githubactions,docker,kubernetes,ansible,terraform,aws,gcp"/>
@@ -96,12 +96,6 @@ Structured JSON logging streams log data to Google Cloud Observability, enhancin
 ##### <img src="https://img.shields.io/badge/load_balancing-blue?style=for-the-badge&logo=google-cloud&logoColor=white" style="height:16px; vertical-align: middle;"> :  Scalability and Security 
 The application leverages dynamic scaling, load balancing, security groups, IAM roles, and customer-managed encryption keys for enhanced scalability and security.
 
-<div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RamaRaju-vj&show_icons=true&locale=en&layout=compact" alt="RamaRaju-vj" /></p>
-</div> 
-
-<br></br>
-<br></br>
 
 <div align="left">
   <h2>🐍 My Contributions 🐍</h2>
