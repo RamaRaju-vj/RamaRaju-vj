@@ -39,9 +39,11 @@
 
 <h3><a href="https://github.com/RamaRaju-personal-org/webapp" style="color: #ADD8E6;">Project : Cloud Native Web Application</a></h3>
 
+
 > \[!NOTE]\
 > Web Application Repo:  https://github.com/RamaRaju-personal-org/webapp \
 > Infra Repo : https://github.com/RamaRaju-personal-org/tf-gcp-infra
+
 
 #### Tech stack used for project
 [![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
@@ -84,6 +86,15 @@ Structured JSON logging streams log data to Google Cloud Observability, enhancin
 
 ##### <img src="https://img.shields.io/badge/load_balancing-blue?style=for-the-badge&logo=google-cloud&logoColor=white" style="height:16px; vertical-align: middle;"> :  Scalability and Security 
 The application leverages dynamic scaling, load balancing, security groups, IAM roles, and customer-managed encryption keys for enhanced scalability and security.
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-RamaRaju-vj.vercel.app/?user=RamaRaju-vj&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-RamaRaju-vj.vercel.app/api?username=RamaRaju-vj&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-RamaRaju-vj.vercel.app/api/top-langs/?username=RamaRaju-vj&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
 
 <div align="center">
