@@ -49,4 +49,4 @@ jobs:
           build_dir: dist
           commit_message: Update snake animations
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} #default no need to configure
+          GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }} #default no need to configure
