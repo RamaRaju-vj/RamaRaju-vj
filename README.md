@@ -43,6 +43,7 @@
 > Web Application Repo:  https://github.com/RamaRaju-personal-org/webapp \
 > Infra Repo : https://github.com/RamaRaju-personal-org/tf-gcp-infra
 
+<div align="left">
 
 #### Tech stack used for project
 [![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
@@ -53,13 +54,22 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 [![Mailgun](https://img.shields.io/badge/Mailgun-F06A6A?style=for-the-badge&logo=mailgun&logoColor=white)](https://www.mailgun.com/)  
 
+</div >
 
+
+<div align="left">
 
 #### overview 
 This Project comprises a cohesive collection of repositories intended to streamline the deployment of a secure, scalable, and highly available web application on the Google Cloud Platform (GCP). By leveraging Terraform for infrastructure automation, Google Cloud Functions for serverless execution, and Node.js for backend development, this project provides a robust solution for deploying and managing contemporary, cloud-native applications. Additionally, it utilizes Packer for creating immutable machine images, GitHub Actions for CI/CD, and ensures data security with encryption managed by Google Cloud Keys.
+</div>
+
+<div align="left">
 
 #### Architecture  
 ![flow drawio](https://github.com/RamaRaju-personal-org/webapp/assets/144737522/7798b670-f957-4417-9e13-ee4f579e6e36)
+</div>
+
+<div align="left">
 
 ### Project Highlights
 ##### <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="height:16px; vertical-align: middle;"> : RESTful APIs 
@@ -86,8 +96,14 @@ Structured JSON logging streams log data to Google Cloud Observability, enhancin
 ##### <img src="https://img.shields.io/badge/load_balancing-blue?style=for-the-badge&logo=google-cloud&logoColor=white" style="height:16px; vertical-align: middle;"> :  Scalability and Security 
 The application leverages dynamic scaling, load balancing, security groups, IAM roles, and customer-managed encryption keys for enhanced scalability and security.
 
+<div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RamaRaju-vj&show_icons=true&locale=en&layout=compact" alt="RamaRaju-vj" /></p>
+</div> 
 
-<div align="center">
+<br></br>
+<br></br>
+
+<div align="left">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/RamaRaju-vj/RamaRaju-vj/output/github-contribution-grid-snake.svg" />
@@ -95,6 +111,5 @@ The application leverages dynamic scaling, load balancing, security groups, IAM 
   <br/><br/><br/>
 </div>
 
-<div>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RamaRaju-vj&show_icons=true&locale=en&layout=compact" alt="RamaRaju-vj" /></p>
+
 </div>
