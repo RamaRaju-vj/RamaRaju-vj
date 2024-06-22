@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ram!;" />
 </h1>
 
-<h3> 👨‍💻 I’m currently a Software Engineering Grad Student @ Northeastern University.</h3>
+<h3 align="center"> 👨‍💻 I’m currently a Software Engineering Grad Student @ Northeastern University.</h3>
 
 <br/>
 
 
 
-<div align="left"> 
+<div align="center"> 
   <a href="mailto:vadapalli.j@northeastern.edu">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -27,14 +27,14 @@
 
  <hr/>
 
-<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="left">
+<div align="center">
     <img src="https://skillicons.dev/icons?i=git,jenkins,githubactions,docker,kubernetes,ansible,terraform,aws,gcp"/>
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,mysql,mongodb" /><br>
 </div>
 
-<h2 align="left">Featured Projects</h2>
+<h2 align="center">Featured Projects</h2>
 
 
 <h3><a href="https://github.com/RamaRaju-personal-org/webapp" style="color: #ADD8E6;">Project : Cloud Native Web Application</a></h3>
@@ -93,4 +93,8 @@ The application leverages dynamic scaling, load balancing, security groups, IAM 
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/RamaRaju-vj/RamaRaju-vj/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
+</div>
+
+<div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RamaRaju-vj&show_icons=true&locale=en&layout=compact" alt="RamaRaju-vj" /></p>
 </div>
