@@ -1,23 +1,39 @@
-  
+ <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RamaRaju-vj.RamaRaju-vj" />
+
 <h1 align="center">
-  
-  <a href="https://www.linkedin.com/in/ram-cloud-devops/"> Hi 👋, I'm Ram
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: middle;">
-  </a>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ram!;" />
 </h1>
-<h3 align="center">👨‍💻I’m currently a software engineering Grad Student @ Northeastern University</h3>
 
+<h3 align="center"> 👨‍💻 I’m currently a Software Engineering Grad Student @ Northeastern University</h3>
 
-<p align="center">
-  📫 <a href="mailto:vadapalli.j@northeastern.edu"><strong>vadapalli.j@northeastern.edu</strong><a> | 
-  🔭 <a href="https://ram2305.github.io/Ram/"><strong>Portfolio</strong></a> | 
-  📄 <a href="https://drive.google.com/file/d/1yvYPK-1jXzIpcqOzCIhybje7wtUzWMZz/view"><strong>Resume</strong></a>
-</p>
+<br/>
 
+<div align="center"> 
 
-## 💻 Tech Stack:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Packer](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
+<div align="center"> 
+  <a href="mailto:vadapalli.j@northeastern.edu">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
 
+  <a href="https://www.linkedin.com/in/ram-cloud-devops/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://ram2305.github.io/Ram/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a>
+  <a href="https://drive.google.com/file/d/1yvYPK-1jXzIpcqOzCIhybje7wtUzWMZz/view" target="_blank">
+     <img src="https://img.shields.io/badge/-Resume-green?logo=resume&logoColor=white&style=for-the-badge" target="_blank" /> 
+  </a>
+ 
+
+ <hr/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=git,jenkins,githubactions,docker,kubernetes,ansible,terraform,aws,gcp"/><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,mysql,mongodb" /><br>
+</div>
 
 <h2 style="color: yellow;">Featured Projects</h2>
 
@@ -28,7 +44,7 @@
 > Web Application Repo:  https://github.com/RamaRaju-personal-org/webapp \
 > Infra Repo : https://github.com/RamaRaju-personal-org/tf-gcp-infra
 
-#### Tech stack used 
+#### Tech stack used for project
 [![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 [![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -71,6 +87,17 @@ Structured JSON logging streams log data to Google Cloud Observability, enhancin
 The application leverages dynamic scaling, load balancing, security groups, IAM roles, and customer-managed encryption keys for enhanced scalability and security.
 
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/RamaRaju-vj/RamaRaju-vj/main/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+
+  <div align=center>
+  <img width=325 align="center" src="https://github-readme-stats-RamaRaju-vj.vercel.app/api/top-langs/?username=RamaRaju-vj&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+</div>
 
 
 
