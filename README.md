@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ram!;" />
 </h1>
 
-<h3> 👨‍💻 I’m currently a Software Engineering Grad Student @ Northeastern University</h3>
+<h3> 👨‍💻 I’m currently a Software Engineering Grad Student @ Northeastern University.</h3>
 
 <br/>
 
@@ -89,8 +89,7 @@ The application leverages dynamic scaling, load balancing, security groups, IAM 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/RamaRaju-vj/RamaRaju-vj/main/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/RamaRaju-vj/RamaRaju-vj/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
-

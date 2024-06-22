@@ -45,7 +45,7 @@ jobs:
       - name: Push new files to the main branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: main
+          target_branch: output
           build_dir: dist
           commit_message: Update snake animations
         env:
