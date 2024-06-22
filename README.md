@@ -39,7 +39,7 @@
 
 <h3><a href="https://github.com/RamaRaju-personal-org/webapp" style="color: #ADD8E6;">Project : Cloud Native Web Application</a></h3>
 
-> [!TIP]  
+> [!NOTE]  
 > Web Application Repo:  https://github.com/RamaRaju-personal-org/webapp \
 > Infra Repo : https://github.com/RamaRaju-personal-org/tf-gcp-infra
 
