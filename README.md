@@ -34,7 +34,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,mysql,mongodb" /><br>
 </div>
 
-<h2 align="center">Featured Projects</h2>
+<h2 align="left">Featured Projects</h2>
 
 
 <h3><a href="https://github.com/RamaRaju-personal-org/webapp" style="color: #ADD8E6;">Project : Cloud Native Web Application</a></h3>
