@@ -20,7 +20,7 @@
   <a href="https://ram2305.github.io/Ram/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
-  <a href="" target="_blank">
+  <a href="https://drive.google.com/file/d/1kDHSGu4DV4PAHi5gxMR2HzeUx8V5nA95/view?usp=sharing" target="_blank">
      <img src="https://img.shields.io/badge/-Resume-green?logo=resume&logoColor=white&style=for-the-badge" target="_blank" /> 
   </a>
  
